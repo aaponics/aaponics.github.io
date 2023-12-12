@@ -10,6 +10,12 @@
 <url>
   <loc>https://aaponics.com/</loc>
   <lastmod>2023-12-12T14:54:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://aaponics.com/team</loc>
+  <lastmod>2023-12-12T14:54:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
