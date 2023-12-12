@@ -35,6 +35,13 @@
 	
 }
 
+.toplogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+}
+
 .topimage {
     display: block;
     margin-left: auto;
